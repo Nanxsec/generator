@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-"""
-wordgen — Human-pattern Wordlist Generator
-Zero external dependencies. Python 3.8+
-"""
 
 import os
 import sys
